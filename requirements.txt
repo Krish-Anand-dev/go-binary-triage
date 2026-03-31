@@ -1,0 +1,7 @@
+# No external dependencies required
+# This tool uses only Python standard library modules:
+# - json      (parse GoReSym output)
+# - re        (regex for URL/IP/string detection)
+# - argparse  (CLI argument handling)
+# - sys       (exit codes and stderr)
+# - dataclasses (clean data structures for the report)
